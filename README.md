@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **GoutamVerma/GoutamVerma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,36 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hello, I'm Goutam!
+
+> ##### Developer 
+> An organism which converts caffeine to software.
+
+```julia
+module main
+
+aboutMe :: struct {
+  pronouns :: string[];
+  languages :: string[];
+  hobbies :: string[];
+}
+
+main :: func(): void {
+  merul :: aboutMe = {
+    pronouns: ["He", "Him"],
+    languages: ["Java", "C++", "Android", "Python"],
+    hobbies: ["Coding", "Reading"]
+  };
+
+  println "Pronouns: ${goutam.pronouns}";
+  println "Languages I Know: ${goutam.languages}";
+  println "My Hobbies: ${goutam.hobbies}";
+}
+```
+
+
+# About 
+Working towards empowering communities via open-source. Finds passion in android developing. Currently a fellow at MLH and developer at Summer of Bitcoin(Eclair), Google SoC (Liquid Galaxy).
+
+reach to me at goutamverma84009@gmail.com 
