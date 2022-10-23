@@ -42,6 +42,6 @@ main :: func(): void {
 
 
 # About 
-Working towards empowering communities via open-source. Finds passion in android developing. Currently a fellow at MLH and developer at Summer of Bitcoin(Eclair), Google SoC (Liquid Galaxy).
+Working towards empowering communities via open-source. Passionate about Android development. At present, I am a fellow at MLH and a developer at Summer of Bitcoin (Eclair), and Google SoC (Liquid Galaxy).
 
 reach to me at goutamverma84009@gmail.com 
