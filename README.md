@@ -28,7 +28,7 @@ aboutMe :: struct {
 }
 
 main :: func(): void {
-  merul :: aboutMe = {
+  Goutam :: aboutMe = {
     pronouns: ["He", "Him"],
     languages: ["Java", "C++", "Android", "Python"],
     hobbies: ["Coding", "Reading"]
